@@ -44,7 +44,7 @@ The key used for each item will be the lower case language code for each greetin
 ### Seeding the KV Store
 You need to add some items to your EdgeKV store before you execute your logic. 
 
-The following are some examples you could use. The full EdgeKV OPENAPI specification can be found [here](https://github.com/akamai/edgeworkers-examples/blob/master/edgekv/apis/readme.md).
+The following are some examples you could use. The full EdgeKV OPENAPI specification can be found [here](https://github.com/akamai/edgeworkers-examples/blob/master/edgekv/lib/README.md).
 
 To add the various language specific greetings to your EdgeKV store via the management API, use:
 
